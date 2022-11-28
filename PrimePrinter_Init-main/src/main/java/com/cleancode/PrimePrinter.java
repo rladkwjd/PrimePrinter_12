@@ -1,5 +1,4 @@
 package com.cleancode;
-
 public class PrimePrinter {
     private static final int NUMBER = 1000;
     private static final int LINES = 50;
